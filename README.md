@@ -4,7 +4,7 @@ Implementation of Wilcoxon signed rank test in python.
 
 ## Implementation
 
-* In wilcoxon module wilcoxon_test function is implemented which calculated correlation rank
+* In wilcoxon module wilcoxon_test function is implemented which calculates correlation rank
 * In main module input file is read and best match is calculated as per requirement
 
 ## Execution
